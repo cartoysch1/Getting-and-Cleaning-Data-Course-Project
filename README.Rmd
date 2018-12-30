@@ -1,0 +1,13 @@
+
+The R Script, run_analysis.R, does the following:
+
+    1. Downloads the UCI HAR dataset
+    2. Reads and cleans the activity labels and features
+    3. Reads the training and test datasets
+    4. Keeps only the variables from the training and test datasets that              mention a mean or standard deviation
+    5. Merges the training and the test sets to create one data set
+    6. Labels the data set with descriptive variable names
+    7. Adds descriptive activity names to name the activities in the data set
+    8. Creates a second, independent tidy data set with the average of each           variable for each activity and each subject and names it                      second_tiny_data_set.txt
+
+

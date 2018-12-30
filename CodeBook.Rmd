@@ -1,0 +1,24 @@
+
+CodeBook for Getting and Cleaning Data Course Project
+
+For each record in the Second Tidy Data Set, there is:
+    -An identifier of the subject who carried out the experiment.
+    -Its activity label, comprising the activities:
+         WALKING
+         WALKING UPSTAIRS
+         WALKING DOWNSTAIRS
+         SITTING
+         STANDING
+         LAYING
+     -The average of the mean and standard deviation for the following                measurements for each activity and subject:
+            - Triaxial acceleration from the accelerometer (total                             acceleration) and the estimated body acceleration.
+            - Triaxial Angular velocity from the gyroscope. 
+            - A 561-feature vector with time and frequency domain variables. 
+
+
+
+
+
+
+
+
